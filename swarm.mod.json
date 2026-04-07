@@ -1,0 +1,11 @@
+{
+  "id": "dev.swarmprotocol.libp2p-mesh",
+  "name": "Swarm P2P Agent Mesh",
+  "version": "0.1.0",
+  "swarmApi": "^0.1.0",
+  "entrypoint": {
+    "type": "worker",
+    "url": "https://libp2p-mesh.swarmprotocol.fun/v0.1.0/worker.js"
+  },
+  "permissions": []
+}
